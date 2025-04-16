@@ -70,12 +70,12 @@ A Flutter app for book lovers to explore, search, and save favorite books using 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/Korya25/Bookna-app.git
+git clone https://github.com/YoussefHamada-cs/BookFlick.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd Bookna-app
+cd BookFlick
 ```
 
 3. Install dependencies:
@@ -112,13 +112,14 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ### Yousef Hamada  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yosefhagag84171@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hamada-062262302/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YoussefHamada-cs)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/165z5EhaWA/)
 
 ---
 
 ## 🌟 Show Support  
-Like the project? Give it a ⭐️ on [GitHub](https://github.com/Korya25/Bookna-app)!  
+Like the project? Give it a ⭐️ on [GitHub](https://github.com/YoussefHamada-cs/BookFlick)!  
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/star.png" alt="Star"/>
